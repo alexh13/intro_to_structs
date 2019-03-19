@@ -5,4 +5,4 @@ the original amount entered. Once that data is collected the program executes an
 highest to lowest.
 
 What I Learned:
--Solve problems using structs in accordance with good programming practice.
+- Solve problems using structs in accordance with good programming practice.
